@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mail2suraj1992" target="blank"><img src="https://img.shields.io/twitter/follow/mail2suraj1992?logo=twitter&style=for-the-badge" alt="mail2suraj1992" /></a> </p>
 
-- 🔭 I’m currently working on **Python Project web scrapper**
+- 🔭 I’m currently working on **I am currently working/volunteering as ML Engineer for Omdena**
 
 - 🌱 I’m currently learning **Machine Learning & Data Science Masters**
 
-- 💬 Ask me about **Python, ML, Web Development**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science, Data Analysis,  Business Analysis**
 
 - 📫 How to reach me **msuraj20@yahoo.com**
 
