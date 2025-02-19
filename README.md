@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **working/volunteering as ML Engineer for (https://www.omdena.com/)**
 
-- 🌱 I’m currently learning **Machine Learning & Data Science Masters**
+- 🌱 I’m currently learning **building the Agentic AI**
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science, Data Analysis,  Business Analysis**
 
